@@ -1,0 +1,13 @@
+[
+  {
+    "nama": "Andi Alfian",
+    "umur": 22,
+    "npm": "18.14.1.0001",
+    "lulus": true,
+    "hobby": ["Coding", "Gaming", "Musik"],
+    "pembimbing": {
+      "pembimbing1": "Nunu Nurdiana",
+      "pembimbing2": "Ardi Mardiana"
+    }
+  }
+]
